@@ -20,6 +20,12 @@ h1{
     text-decoration: underline;
     font-size: xx-large;
 }
+.bevezeto{
+    text-indent: 50px;
+}
+p{
+    text-indent: 50px;
+}
 h2{
     text-align: center;
     text-decoration: underline;
@@ -31,6 +37,12 @@ ul{
 .konyv{
     height: 300px;
     float: left;
+}
+.vonal{
+    background-color: #504033;
+    width: 90%;
+    height: 5px;
+    
 }
 #emlek{
     width: 180px;
